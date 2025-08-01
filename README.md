@@ -1,5 +1,5 @@
-# Projects_Riya
-Projects made in college
+# Projects_Riya 1
+Project 1- Finance Planner
 __________________________________________________________________________________________________________________________
 PROBLEM STATEMENT : Managing finances—whether personal or business—is still a fragmented and often stressful experience. While many apps exist, none offer a unified, intelligent, and customizable platform that caters to both personal and business financial planning in one space.
 
